@@ -1,0 +1,24 @@
+addict==2.2.1
+cycler==0.10.0
+Cython==0.29.21
+fvcore==0.1.1.post20200716
+kiwisolver==1.2.0
+matplotlib==3.3.0
+mmcv==0.5.0
+numpy==1.19.1
+opencv-python==4.3.0.36
+Pillow==6.2.2
+portalocker==1.7.1
+pycocotools==2.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+PyYAML==5.3.1
+scipy==1.5.2
+six==1.15.0
+tabulate==0.8.7
+termcolor==1.1.0
+terminaltables==3.1.0
+torch @ file:///mnt/truenas/scratch/lqf/software/torch-1.4.0-cp36-cp36m-manylinux1_x86_64.whl
+torchvision==0.5.0
+tqdm==4.48.0
+yacs==0.1.7
